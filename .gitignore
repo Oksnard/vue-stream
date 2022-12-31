@@ -126,6 +126,7 @@ dist
 .vscode-test
 
 # yarn v2
+/yarn.lock
 .yarn/*
 .yarn/cache
 .yarn/unplugged
